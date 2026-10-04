@@ -1,2 +1,0 @@
-# html
-ARHC WebLab project
